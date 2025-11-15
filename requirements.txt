@@ -7,3 +7,4 @@ python-dotenv
 motor
 pymongo
 stripe
+beautifulsoup4
