@@ -8,3 +8,4 @@ motor
 pymongo
 stripe
 beautifulsoup4
+aiosmtplib
