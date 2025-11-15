@@ -1,0 +1,9 @@
+hikari
+hikari-lightbulb
+hikari-miru
+aiohttp
+lightbulb-ext-tasks
+pillow
+python-dotenv
+motor
+pymongo
