@@ -56,7 +56,7 @@ def format_price(price):
     return price
 
 def get_config():
-    with open("receiptgen/config.json", "r", encoding="utf-8") as file:
+    with open("ReceiptGenBot/receiptgen/config.json", "r", encoding="utf-8") as file:
         config = json.load(file)
         file.close()
 
