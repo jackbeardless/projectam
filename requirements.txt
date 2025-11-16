@@ -1,5 +1,5 @@
 hikari
-hikari-lightbulb
+hikari-lightbulb==2.3.3
 hikari-miru
 aiohttp
 pillow
