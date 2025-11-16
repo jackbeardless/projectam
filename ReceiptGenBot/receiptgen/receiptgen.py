@@ -3198,9 +3198,8 @@ class CanadaGoose(Brand):
             spoofed_email="noreply@canadagoose.uk.co"
         )
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-config_path = os.path.join(BASE_DIR, "config.json")
-with open(config_path, "r") as file:
+
+with open("ReceiptGenBot/receiptgen/config.json", "r") as file:
     config = json.load(file)
     file.close()
 
